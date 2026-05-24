@@ -1,0 +1,101 @@
+\documentclass{article}
+\usepackage{rotating}
+
+\usepackage{tikz}
+\usepackage{graphicx}
+\usepackage{fontspec}
+\usepackage{tocloft}
+\usepackage{titletoc}
+\usepackage{lipsum} 
+
+\setmainfont[Path=Assets/Fonts/, Extension=.ttf]{JosefinSans-SemiBold}
+
+\usepackage[spanish]{babel}
+
+\begin{document}
+%%%%%%%%%%    COVER    %%%%%%%%%%
+\begin{titlepage}
+\begin{tikzpicture}[remember picture,overlay]
+    \fill[color=purple] (current page.north west) rectangle ++(5cm,-\paperheight);
+    \node[anchor=south west, text=white] at (current page.south west) {\hspace{1.6cm}\begin{turn}{90}
+    \resizebox{!}{35.5pt}{\hspace{0.6cm}{\color{pink} concalma.cc |} ficha de diseño}\end{turn}};
+\end{tikzpicture}
+
+\begin{flushright}
+
+\vspace{7.5cm}
+
+\Huge Cosplay Setsuna
+
+\vspace{0.5cm}
+
+\Large  traje basado en técnicas japonesas
+
+\vspace{8cm}
+
+\normalsize Santiago de Chile
+
+\vspace{0cm}
+
+\normalsize 31 de Mayo, 2026
+
+\end{flushright}
+
+\end{titlepage}
+\newpage
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%    LIST OF CONTENTS    %%%%%%%%%%
+\tableofcontents
+
+\listoffigures
+\newpage
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%    CONTENT    %%%%%%%%%%
+\section{Resumen}
+    \lipsum[1-2]
+\newpage
+
+\section{Inspiración}
+    \lipsum[2-4]
+    \begin{figure}[h]
+            \includegraphics[width=1\textwidth]{sneakpeek.jpg}
+            \caption{Caption}
+        \end{figure}
+\newpage
+
+\section{Diseño del atuendo}
+    \lipsum[2-4]
+    \begin{figure}[h]
+            \includegraphics[width=1\textwidth]{sneakpeek.jpg}
+            \caption{Caption}
+        \end{figure}
+\newpage
+
+\section{Fabricación de las partes}
+    \subsection{Feature 1}
+        \lipsum[2-4]
+        \begin{figure}[h]
+            \includegraphics[width=1\textwidth]{sneakpeek.jpg}
+            \caption{Caption}
+        \end{figure}
+    \subsection{Feature 2}
+        \lipsum[2-4]
+        \begin{figure}[h]
+            \includegraphics[width=1\textwidth]{sneakpeek.jpg}
+            \caption{Caption}
+        \end{figure}
+    \subsection{Feature 3}
+        \lipsum[2-4]
+\newpage
+
+\section{Resultado}
+    \lipsum[2-4]
+\newpage
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\end{document}
+
+\begin{comment}
+
+\end{comment}
