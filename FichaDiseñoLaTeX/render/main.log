@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.25.7 (MiKTeX 26.5) (format=lualatex 2026.5.24)  24 MAY 2026 07:10
+This is LuaHBTeX, Version 1.25.7 (MiKTeX 26.5) (format=lualatex 2026.5.24)  24 MAY 2026 23:13
  restricted system commands enabled.
  file:line:error style messages enabled.
 **c:/Users/Andres/Documents/GitHub/fichaPDF/FichaDiseñoLaTeX/main.tex
@@ -436,6 +436,18 @@ Package tocloft Info: The document has section divisions on input line 51.
 Package: titletoc 2025/01/04 v2.17 TOC entries
 \ttl@leftsep=\dimen261
 )
+("C:/Program Files/MiKTeX/tex/latex/titlesec/titlesec.sty"
+Package: titlesec 2025/01/04 v2.17 Sectioning titles
+\ttl@box=\box65
+\beforetitleunit=\skip84
+\aftertitleunit=\skip85
+\ttl@plus=\dimen262
+\ttl@minus=\dimen263
+\ttl@toksa=\toks31
+\titlewidth=\dimen264
+\titlewidthlast=\dimen265
+\titlewidthfirst=\dimen266
+)
 ("C:/Program Files/MiKTeX/tex/latex/lipsum/lipsum.sty"
 ("C:/Program Files/MiKTeX/tex/latex/l3packages/l3keys2e/l3keys2e.sty"
 Package: l3keys2e 2025-10-09 LaTeX2e option processing using LaTeX3 keys
@@ -446,6 +458,143 @@ Package: lipsum 2021-09-20 v2.7 150 paragraphs of Lorem Ipsum dummy text
 \l__lipsum_b_int=\count320
 
 ("C:/Program Files/MiKTeX/tex/latex/lipsum/lipsum.ltd.tex"))
+("C:/Program Files/MiKTeX/tex/latex/cite/cite.sty"
+LaTeX Info: Redefining \cite on input line 302.
+LaTeX Info: Redefining \nocite on input line 332.
+Package: cite 2015/02/27  v 5.5
+)
+("C:/Program Files/MiKTeX/tex/latex/url/url.sty"
+\Urlmuskip=\muskip17
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+("C:/Program Files/MiKTeX/tex/latex/graphics/dvipsnam.def"
+File: dvipsnam.def 2016/06/17 v3.0m Driver-dependent file (DPC,SPQR)
+)
+("C:/Program Files/MiKTeX/tex/latex/hyperref/hyperref.sty"
+Package: hyperref 2026-04-24 v7.01q Hypertext links for LaTeX
+
+("C:/Program Files/MiKTeX/tex/generic/iftex/iftex.sty"
+Package: iftex 2024/12/12 v1.0g TeX engine tests
+)
+("C:/Program Files/MiKTeX/tex/latex/kvsetkeys/kvsetkeys.sty"
+Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
+)
+("C:/Program Files/MiKTeX/tex/generic/kvdefinekeys/kvdefinekeys.sty"
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+)
+("C:/Program Files/MiKTeX/tex/generic/pdfescape/pdfescape.sty"
+Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
+
+("C:/Program Files/MiKTeX/tex/generic/ltxcmds/ltxcmds.sty"
+Package: ltxcmds 2023-12-04 v1.26 LaTeX kernel commands for general use (HO)
+)
+("C:/Program Files/MiKTeX/tex/generic/pdftexcmds/pdftexcmds.sty"
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+("C:/Program Files/MiKTeX/tex/generic/infwarerr/infwarerr.sty"
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+\pdftexcmds@toks=\toks32
+))
+("C:/Program Files/MiKTeX/tex/latex/hycolor/hycolor.sty"
+Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
+)
+("C:/Program Files/MiKTeX/tex/latex/hyperref/nameref.sty"
+Package: nameref 2026-01-29 v2.58 Cross-referencing by name of section
+
+("C:/Program Files/MiKTeX/tex/latex/refcount/refcount.sty"
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+)
+("C:/Program Files/MiKTeX/tex/generic/gettitlestring/gettitlestring.sty"
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+
+("C:/Program Files/MiKTeX/tex/latex/kvoptions/kvoptions.sty"
+Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
+))
+\c@section@level=\count321
+)
+("C:/Program Files/MiKTeX/tex/latex/etoolbox/etoolbox.sty"
+Package: etoolbox 2025/10/02 v2.5m e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count322
+)
+("C:/Program Files/MiKTeX/tex/generic/stringenc/stringenc.sty"
+Package: stringenc 2019/11/29 v1.12 Convert strings between diff. encodings (HO
+)
+)
+\@linkdim=\dimen267
+\Hy@linkcounter=\count323
+\Hy@pagecounter=\count324
+
+("C:/Program Files/MiKTeX/tex/latex/hyperref/pd1enc.def"
+File: pd1enc.def 2026-04-24 v7.01q Hyperref: PDFDocEncoding definition (HO)
+)
+("C:/Program Files/MiKTeX/tex/generic/intcalc/intcalc.sty"
+Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
+)
+\Hy@SavedSpaceFactor=\count325
+
+("C:/Program Files/MiKTeX/tex/latex/hyperref/puenc.def"
+File: puenc.def 2026-04-24 v7.01q Hyperref: PDF Unicode definition (HO)
+)
+Package hyperref Info: Hyper figures OFF on input line 4199.
+Package hyperref Info: Link nesting OFF on input line 4204.
+Package hyperref Info: Hyper index ON on input line 4207.
+Package hyperref Info: Plain pages OFF on input line 4214.
+Package hyperref Info: Backreferencing OFF on input line 4219.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4466.
+\c@Hy@tempcnt=\count326
+LaTeX Info: Redefining \url on input line 4805.
+\XeTeXLinkMargin=\dimen268
+
+("C:/Program Files/MiKTeX/tex/generic/bitset/bitset.sty"
+Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
+
+("C:/Program Files/MiKTeX/tex/generic/bigintcalc/bigintcalc.sty"
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
+)
+))
+\Fld@menulength=\count327
+\Field@Width=\dimen269
+\Fld@charsize=\dimen270
+Package hyperref Info: Hyper figures OFF on input line 6091.
+Package hyperref Info: Link nesting OFF on input line 6096.
+Package hyperref Info: Hyper index ON on input line 6099.
+Package hyperref Info: backreferencing OFF on input line 6106.
+Package hyperref Info: Link coloring OFF on input line 6111.
+Package hyperref Info: Link coloring with OCG OFF on input line 6116.
+Package hyperref Info: PDF/A mode OFF on input line 6121.
+\Hy@abspage=\count328
+\c@Item=\count329
+\c@Hfootnote=\count330
+)
+
+Package hyperref Warning: Wrong driver `hpdftex.def';
+(hyperref)                pdfTeX is running in PDF mode.
+(hyperref)                Forcing driver `hluatex.def'.
+
+Package hyperref Info: Driver: hluatex.
+("C:/Program Files/MiKTeX/tex/latex/hyperref/hluatex.def"
+File: hluatex.def 2026-04-24 v7.01q Hyperref driver for luaTeX
+\Fld@listcount=\count331
+\c@bookmark@seq@number=\count332
+
+("C:/Program Files/MiKTeX/tex/latex/rerunfilecheck/rerunfilecheck.sty"
+Package: rerunfilecheck 2025-06-21 v1.11 Rerun checks for auxiliary files (HO)
+
+("C:/Program Files/MiKTeX/tex/generic/uniquecounter/uniquecounter.sty"
+Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
+)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+84.
+)
+\Hy@SectionHShift=\skip86
+)
+Package hyperref Info: Option `colorlinks' set `true' on input line 40.
 
 Package fontspec Info: 
 (fontspec)             Font family 'JosefinSans-SemiBold(0)' created for font
@@ -547,7 +696,7 @@ Package babel Info: Non-standard hyphenation setup on input line 118.
 \babelcatcodetablenum=\catcodetable14
 \bbl@pattcodes=\catcodetable15
 )
-\babel@savecnt=\count321
+\babel@savecnt=\count333
 LaTeX Encoding Info:    Redeclaring text command \ij (encoding OT1) on input li
 ne 2084.
 LaTeX Encoding Info:    Redeclaring text command \IJ (encoding OT1) on input li
@@ -562,7 +711,7 @@ LaTeX Encoding Info:    Ignoring declaration for text command \IJ (encoding ?)
 on input line 2092.
 LaTeX Encoding Info:    Ignoring declaration for text command \SS (encoding ?) 
 on input line 2117.
-\U@D=\dimen262
+\U@D=\dimen271
 \l@unhyphenated=\language79
 
 ("C:/Program Files/MiKTeX/tex/generic/babel/luababel.def"
@@ -585,8 +734,8 @@ Package babel Info: Importing font and identification data for spanish
 
 ("C:/Program Files/MiKTeX/tex/latex/babel-spanish/spanish.ldf"
 Language: spanish.ldf 2021/05/27 v5.0q Spanish support from the babel system
-\es@quottoks=\toks31
-\es@quotdepth=\count322
+\es@quottoks=\toks33
+\es@quotdepth=\count334
 Package babel Info: Making " an active character on input line 570.
 Package babel Info: Making . an active character on input line 675.
 Package babel Info: Making < an active character on input line 722.
@@ -596,80 +745,57 @@ Package babel Info: Making > an active character on input line 722.
 UTF-8 Spanish hyphenation patterns
 ("C:/Program Files/MiKTeX/tex/generic/hyph-utf8/patterns/tex/hyph-es.tex"))))
 LaTeX Encoding Info:    Redeclaring text command \guillemotleft (encoding OT1) 
-on input line 14.
+on input line 47.
 LaTeX Encoding Info:    Redeclaring text command \guillemotright (encoding OT1)
- on input line 14.
+ on input line 47.
 
 (c:/Users/Andres/Documents/GitHub/fichaPDF/FichaDiseñoLaTeX/render/main.aux
-LaTeX Info: Redefining \. on input line 8.
-LaTeX Info: Redefining \% on input line 8.
+LaTeX Info: Redefining \. on input line 11.
+LaTeX Info: Redefining \% on input line 11.
 Package babel Info: 'spanish' activates 'spanish' shorthands.
-(babel)             Reported on input line 8.
+(babel)             Reported on input line 11.
 )
 \openout1 = main.aux
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 15.
-LaTeX Font Info:    ... okay on input line 15.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 15.
-LaTeX Font Info:    ... okay on input line 15.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 15.
-LaTeX Font Info:    ... okay on input line 15.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 15.
-LaTeX Font Info:    ... okay on input line 15.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 15.
-LaTeX Font Info:    ... okay on input line 15.
-LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 15.
-LaTeX Font Info:    ... okay on input line 15.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 15.
-LaTeX Font Info:    ... okay on input line 15.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 15.
-LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 56.
+LaTeX Font Info:    ... okay on input line 56.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 56.
+LaTeX Font Info:    ... okay on input line 56.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 56.
+LaTeX Font Info:    ... okay on input line 56.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 56.
+LaTeX Font Info:    ... okay on input line 56.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 56.
+LaTeX Font Info:    ... okay on input line 56.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 56.
+LaTeX Font Info:    ... okay on input line 56.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 56.
+LaTeX Font Info:    ... okay on input line 56.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 56.
+LaTeX Font Info:    ... okay on input line 56.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 56.
+LaTeX Font Info:    ... okay on input line 56.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 56.
+LaTeX Font Info:    ... okay on input line 56.
 
 ("C:/Program Files/MiKTeX/tex/context/base/mkii/supp-pdf.mkii"
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count323
-\scratchdimen=\dimen263
-\scratchbox=\box65
-\nofMPsegments=\count324
-\nofMParguments=\count325
-\everyMPshowfont=\toks32
-\MPscratchCnt=\count326
-\MPscratchDim=\dimen264
-\MPnumerator=\count327
-\makeMPintoPDFobject=\count328
-\everyMPtoPDFconversion=\toks33
+\scratchcounter=\count335
+\scratchdimen=\dimen272
+\scratchbox=\box66
+\nofMPsegments=\count336
+\nofMParguments=\count337
+\everyMPshowfont=\toks34
+\MPscratchCnt=\count338
+\MPscratchDim=\dimen273
+\MPnumerator=\count339
+\makeMPintoPDFobject=\count340
+\everyMPtoPDFconversion=\toks35
 ) ("C:/Program Files/MiKTeX/tex/latex/epstopdf-pkg/epstopdf-base.sty"
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 
-("C:/Program Files/MiKTeX/tex/generic/infwarerr/infwarerr.sty"
-Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
-)
 ("C:/Program Files/MiKTeX/tex/latex/grfext/grfext.sty"
 Package: grfext 2019/12/03 v1.3 Manage graphics extensions (HO)
-
-("C:/Program Files/MiKTeX/tex/generic/kvdefinekeys/kvdefinekeys.sty"
-Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
-))
-("C:/Program Files/MiKTeX/tex/latex/kvoptions/kvoptions.sty"
-Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
-
-("C:/Program Files/MiKTeX/tex/generic/ltxcmds/ltxcmds.sty"
-Package: ltxcmds 2023-12-04 v1.26 LaTeX kernel commands for general use (HO)
-)
-("C:/Program Files/MiKTeX/tex/latex/kvsetkeys/kvsetkeys.sty"
-Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
-))
-("C:/Program Files/MiKTeX/tex/generic/pdftexcmds/pdftexcmds.sty"
-Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
-)
-
-("C:/Program Files/MiKTeX/tex/generic/iftex/iftex.sty"
-Package: iftex 2024/12/12 v1.0g TeX engine tests
-)
-Package pdftexcmds Info: \pdf@primitive is available.
-Package pdftexcmds Info: \pdf@ifprimitive is available.
-Package pdftexcmds Info: \pdfdraftmode found.
-\pdftexcmds@toks=\toks34
 )
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 85.
@@ -688,73 +814,87 @@ Package fontspec Info:
 
 \symlegacymaths=\mathgroup4
 LaTeX Font Info:    Overwriting symbol font `legacymaths' in version `bold'
-(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 15.
-LaTeX Font Info:    Redeclaring math accent \acute on input line 15.
-LaTeX Font Info:    Redeclaring math accent \grave on input line 15.
-LaTeX Font Info:    Redeclaring math accent \ddot on input line 15.
-LaTeX Font Info:    Redeclaring math accent \tilde on input line 15.
-LaTeX Font Info:    Redeclaring math accent \bar on input line 15.
-LaTeX Font Info:    Redeclaring math accent \breve on input line 15.
-LaTeX Font Info:    Redeclaring math accent \check on input line 15.
-LaTeX Font Info:    Redeclaring math accent \hat on input line 15.
-LaTeX Font Info:    Redeclaring math accent \dot on input line 15.
-LaTeX Font Info:    Redeclaring math accent \mathring on input line 15.
-LaTeX Font Info:    Redeclaring math symbol \colon on input line 15.
-LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 15.
-LaTeX Font Info:    Redeclaring math symbol \Delta on input line 15.
-LaTeX Font Info:    Redeclaring math symbol \Theta on input line 15.
-LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 15.
-LaTeX Font Info:    Redeclaring math symbol \Xi on input line 15.
-LaTeX Font Info:    Redeclaring math symbol \Pi on input line 15.
-LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 15.
-LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 15.
-LaTeX Font Info:    Redeclaring math symbol \Phi on input line 15.
-LaTeX Font Info:    Redeclaring math symbol \Psi on input line 15.
-LaTeX Font Info:    Redeclaring math symbol \Omega on input line 15.
-LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 15.
-LaTeX Font Info:    Redeclaring symbol font `operators' on input line 15.
+(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 56.
+LaTeX Font Info:    Redeclaring math accent \acute on input line 56.
+LaTeX Font Info:    Redeclaring math accent \grave on input line 56.
+LaTeX Font Info:    Redeclaring math accent \ddot on input line 56.
+LaTeX Font Info:    Redeclaring math accent \tilde on input line 56.
+LaTeX Font Info:    Redeclaring math accent \bar on input line 56.
+LaTeX Font Info:    Redeclaring math accent \breve on input line 56.
+LaTeX Font Info:    Redeclaring math accent \check on input line 56.
+LaTeX Font Info:    Redeclaring math accent \hat on input line 56.
+LaTeX Font Info:    Redeclaring math accent \dot on input line 56.
+LaTeX Font Info:    Redeclaring math accent \mathring on input line 56.
+LaTeX Font Info:    Redeclaring math symbol \colon on input line 56.
+LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 56.
+LaTeX Font Info:    Redeclaring math symbol \Delta on input line 56.
+LaTeX Font Info:    Redeclaring math symbol \Theta on input line 56.
+LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 56.
+LaTeX Font Info:    Redeclaring math symbol \Xi on input line 56.
+LaTeX Font Info:    Redeclaring math symbol \Pi on input line 56.
+LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 56.
+LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 56.
+LaTeX Font Info:    Redeclaring math symbol \Phi on input line 56.
+LaTeX Font Info:    Redeclaring math symbol \Psi on input line 56.
+LaTeX Font Info:    Redeclaring math symbol \Omega on input line 56.
+LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 56.
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 56.
 LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
-(Font)              `operators' in the math version `normal' on input line 15.
+(Font)              `operators' in the math version `normal' on input line 56.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
 (Font)                  OT1/cmr/m/n --> TU/JosefinSans-SemiBold(0)/m/n on input
- line 15.
+ line 56.
 LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
-(Font)              `operators' in the math version `bold' on input line 15.
+(Font)              `operators' in the math version `bold' on input line 56.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
 (Font)                  OT1/cmr/bx/n --> TU/JosefinSans-SemiBold(0)/m/n on inpu
-t line 15.
+t line 56.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
 (Font)                  TU/JosefinSans-SemiBold(0)/m/n --> TU/JosefinSans-SemiB
-old(0)/m/n on input line 15.
+old(0)/m/n on input line 56.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
 (Font)                  OT1/cmr/m/it --> TU/JosefinSans-SemiBold(0)/m/it on inp
-ut line 15.
+ut line 56.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
 (Font)                  OT1/cmr/bx/n --> TU/JosefinSans-SemiBold(0)/b/n on inpu
-t line 15.
+t line 56.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
-(Font)                  OT1/cmss/m/n --> TU/lmss/m/n on input line 15.
+(Font)                  OT1/cmss/m/n --> TU/lmss/m/n on input line 56.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  OT1/cmtt/m/n --> TU/lmtt/m/n on input line 15.
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/m/n on input line 56.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
 (Font)                  TU/JosefinSans-SemiBold(0)/m/n --> TU/JosefinSans-SemiB
-old(0)/b/n on input line 15.
+old(0)/b/n on input line 56.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
 (Font)                  OT1/cmr/bx/it --> TU/JosefinSans-SemiBold(0)/b/it on in
-put line 15.
+put line 56.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/bx/n --> TU/lmss/b/n on input line 15.
+(Font)                  OT1/cmss/bx/n --> TU/lmss/b/n on input line 56.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> TU/lmtt/b/n on input line 15.
-LaTeX Info: Redefining \. on input line 15.
-LaTeX Info: Redefining \% on input line 15.
- [1
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/b/n on input line 56.
+Package hyperref Info: Link coloring ON on input line 56.
 
-{C:/Users/Andres/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]
+(c:/Users/Andres/Documents/GitHub/fichaPDF/FichaDiseñoLaTeX/render/main.out)
+(c:/Users/Andres/Documents/GitHub/fichaPDF/FichaDiseñoLaTeX/render/main.out)
+\@outlinefile=\write4
+
+\openout4 = main.out
+LaTeX Info: Redefining \. on input line 56.
+LaTeX Info: Redefining \% on input line 56.
+<sneakpeek.jpg, id=38, 722.7pt x 542.025pt>
+File: sneakpeek.jpg Graphic file (type jpg)
+<use sneakpeek.jpg>
+Package luatex.def Info: sneakpeek.jpg  used on input line 59.
+(luatex.def)             Requested size: 1059.99635pt x 794.96999pt.
+
+[1
+
+{C:/Users/Andres/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}<./sneakpeek.j
+pg>]
 
 LaTeX Font Warning: Font shape `TU/JosefinSans-SemiBold(0)/b/n' undefined
 (Font)              using `TU/JosefinSans-SemiBold(0)/m/n' instead on input lin
-e 48.
+e 99.
 
 (c:/Users/Andres/Documents/GitHub/fichaPDF/FichaDiseñoLaTeX/render/main.toc
 LaTeX Info: Redefining \. on input line 1.
@@ -764,26 +904,26 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <5> on input line 2.
 )
-\tf@toc=\write4
+\tf@toc=\write5
 
-\openout4 = main.toc
+\openout5 = main.toc
 
 (c:/Users/Andres/Documents/GitHub/fichaPDF/FichaDiseñoLaTeX/render/main.lof
 LaTeX Info: Redefining \. on input line 1.
 LaTeX Info: Redefining \% on input line 1.
 )
-\tf@lof=\write5
+\tf@lof=\write6
 
-\openout5 = main.lof
+\openout6 = main.lof
 
+warning  (pdf backend): ignoring duplicate destination with the name 'page.1'
 [1] ("C:/Program Files/MiKTeX/tex/generic/hyph-utf8/loadhyph/loadhyph-la.tex"
 UTF-8 Latin hyphenation patterns
 ("C:/Program Files/MiKTeX/tex/generic/hyph-utf8/patterns/tex/hyph-la.tex"))
 [2]
-<sneakpeek.jpg, id=15, 722.7pt x 542.025pt>
 File: sneakpeek.jpg Graphic file (type jpg)
 <use sneakpeek.jpg>
-Package luatex.def Info: sneakpeek.jpg  used on input line 61.
+Package luatex.def Info: sneakpeek.jpg  used on input line 112.
 (luatex.def)             Requested size: 345.0pt x 258.74649pt.
 
 
@@ -792,12 +932,12 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 [3]
 File: sneakpeek.jpg Graphic file (type jpg)
 <use sneakpeek.jpg>
-Package luatex.def Info: sneakpeek.jpg  used on input line 69.
+Package luatex.def Info: sneakpeek.jpg  used on input line 120.
 (luatex.def)             Requested size: 345.0pt x 258.74649pt.
- [4<./sneakpeek.jpg>] [5]
+ [4] [5]
 File: sneakpeek.jpg Graphic file (type jpg)
 <use sneakpeek.jpg>
-Package luatex.def Info: sneakpeek.jpg  used on input line 78.
+Package luatex.def Info: sneakpeek.jpg  used on input line 129.
 (luatex.def)             Requested size: 345.0pt x 258.74649pt.
 
 
@@ -806,16 +946,23 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 [6]
 File: sneakpeek.jpg Graphic file (type jpg)
 <use sneakpeek.jpg>
-Package luatex.def Info: sneakpeek.jpg  used on input line 84.
+Package luatex.def Info: sneakpeek.jpg  used on input line 135.
 (luatex.def)             Requested size: 345.0pt x 258.74649pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 [7] [8] [9]
+(c:/Users/Andres/Documents/GitHub/fichaPDF/FichaDiseñoLaTeX/render/main.bbl
+Underfull \hbox (badness 1852) in paragraph at lines 4--7
+[]\TU/JosefinSans-SemiBold(0)/b/n/10 Sen-go-ku-Daim-yo.  2. Ar-mour Parts.  [][
+]$\TU/lmtt/m/n/10 https://sengokudaimyo.com/
+ []
+
+) [10]
 (c:/Users/Andres/Documents/GitHub/fichaPDF/FichaDiseñoLaTeX/render/main.aux
-LaTeX Info: Redefining \. on input line 8.
-LaTeX Info: Redefining \% on input line 8.
+LaTeX Info: Redefining \. on input line 11.
+LaTeX Info: Redefining \% on input line 11.
 )
  ***********
 LaTeX2e <2025-11-01>
@@ -825,22 +972,25 @@ L3 programming layer <2026-04-28>
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
+Package rerunfilecheck Info: File `main.out' has not changed.
+(rerunfilecheck)             Checksum: 6E685F7937C14BB90BB745062EB53299;904.
 )
 
 Here is how much of LuaTeX's memory you used:
- 17607 strings out of 475892
- 100000,953878 words of node,token memory allocated
- 620 words of node memory still in use:
-   4 hlist, 1 vlist, 1 rule, 4 glue, 3 kern, 1 glyph, 11 attribute, 82 glue_spec
-, 6 attribute_list, 2 write nodes
-   avail lists: 2:508,3:105,4:22,5:193,6:28,7:6892,8:1,9:198,10:11,11:802
- 39748 multiletter control sequences out of 65536+600000
- 35 fonts using 2363759 bytes
- 84i,7n,100p,465b,573s stack positions out of 10000i,1000n,20000p,200000b,200000s
-<./Assets/Fonts/JosefinSans-SemiBold.ttf>
-Output written on main.pdf (10 pages, 46933 bytes).
+ 24788 strings out of 475892
+ 125036,1144653 words of node,token memory allocated
+ 652 words of node memory still in use:
+   4 hlist, 1 vlist, 1 rule, 4 glue, 3 kern, 1 glyph, 13 attribute, 86 glue_spec
+, 7 attribute_list, 2 write, 1 pdf_action nodes
+   avail lists: 2:613,3:239,4:58,5:212,6:39,7:6899,8:43,9:233,10:11,11:801
+ 46786 multiletter control sequences out of 65536+600000
+ 36 fonts using 2489847 bytes
+ 84i,7n,100p,465b,628s stack positions out of 10000i,1000n,20000p,200000b,200000s
+<c:/program files/miktex/fonts/opentype/public/lm/lmmono10-regular.otf><./Assets
+/Fonts/JosefinSans-SemiBold.ttf>
+Output written on main.pdf (11 pages, 61717 bytes).
 
-PDF statistics: 44 PDF objects out of 1000 (max. 8388607)
- 0 named destinations out of 1000 (max. 1048576)
- 16 words of extra memory for PDF output out of 10000 (max. 100000000)
+PDF statistics: 129 PDF objects out of 1000 (max. 8388607)
+ 24 named destinations out of 1000 (max. 1048576)
+ 80 words of extra memory for PDF output out of 10000 (max. 100000000)
 

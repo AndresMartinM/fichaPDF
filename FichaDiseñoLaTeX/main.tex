@@ -6,32 +6,83 @@
 \usepackage{fontspec}
 \usepackage{tocloft}
 \usepackage{titletoc}
+\usepackage{titlesec}
 \usepackage{lipsum} 
+\usepackage{cite}
+\usepackage{url}
+%\usepackage{hyperref}
+\usepackage[dvipsnames]{xcolor}
 
+%%%%%%%%%  Metadatos  %%%%%%%%%
+\usepackage[pdftex,
+            pdfauthor={concalma.cc},
+            pdftitle={Cosplay Setsuna: traje basado en técnicas japonesas},
+            pdfsubject={},
+            pdfkeywords={},
+            pdfproducer={Latex},
+            pdfcreator={lualatex}]{hyperref}
+
+
+%%%%%%%  Colores secundarios del documento  %%%%%%%
+\definecolor{Dark}{HTML}{522673}
+\definecolor{Light}{HTML}{E1DFEC}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\titleformat{\section}
+    {\Large\color{Dark}}{\thesection}{1em}{}
+
+\hypersetup{
+    colorlinks,
+    citecolor=black,
+    filecolor=black,
+    linkcolor=black,
+    urlcolor=black
+}
+
+%%%%%%%%%  Tipografía del documento  %%%%%%%%%%
 \setmainfont[Path=Assets/Fonts/, Extension=.ttf]{JosefinSans-SemiBold}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 \usepackage[spanish]{babel}
+
+%%%%%%% Datos del documento %%%%%%%%%%%%
+
+\title{title}
+\author{Andres}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
 
 \begin{document}
 %%%%%%%%%%    COVER    %%%%%%%%%%
 \begin{titlepage}
+    \tikz[remember picture,overlay] \node[opacity=0.3,inner sep=0pt] at (current page.center){\includegraphics[height=\paperheight]{sneakpeek.jpg}};
 \begin{tikzpicture}[remember picture,overlay]
-    \fill[color=purple] (current page.north west) rectangle ++(5cm,-\paperheight);
+    \fill[color=Dark] (current page.north west) rectangle ++(5cm,-\paperheight);
     \node[anchor=south west, text=white] at (current page.south west) {\hspace{1.6cm}\begin{turn}{90}
-    \resizebox{!}{35.5pt}{\hspace{0.6cm}{\color{pink} concalma.cc |} ficha de diseño}\end{turn}};
+    \resizebox{!}{35.5pt}{\hspace{0.6cm}{\href{https://concalma.cc/}{\color{Light}concalma.cc |}} ficha de diseño}\end{turn}};
 \end{tikzpicture}
 
 \begin{flushright}
 
 \vspace{7.5cm}
 
+%%%%%%%%%%%%%  Titulo %%%%%%%%%%%%
 \Huge Cosplay Setsuna
 
 \vspace{0.5cm}
 
+%%%%%%%%%%%% Subtitulo %%%%%%%%%%%%
 \Large  traje basado en técnicas japonesas
 
-\vspace{8cm}
+\vspace{5cm}
+
+%%%%%%%%%%%% Autor %%%%%%%%%%%%%
+\normalsize por \href{https://concalma.cc/redirect/andres.html}{Andres A. Martin Mena}
+
+\vspace{2cm}
+
+%%%%%%%% lugar y fecha %%%%%%%%%%
 
 \normalsize Santiago de Chile
 
@@ -82,15 +133,19 @@
         \lipsum[2-4]
         \begin{figure}[h]
             \includegraphics[width=1\textwidth]{sneakpeek.jpg}
-            \caption{Caption}
+            \caption{Caption} 
         \end{figure}
     \subsection{Feature 3}
+    bla bla bla ~\cite{sengokudaimyo_2_nodate}
         \lipsum[2-4]
 \newpage
 
 \section{Resultado}
     \lipsum[2-4]
 \newpage
+
+\bibliographystyle{plain}
+\bibliography{CosplaySetsuna}{}
 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
