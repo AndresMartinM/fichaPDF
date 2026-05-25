@@ -1,10 +1,10 @@
 \babel@toc {spanish}{}\relax 
-\contentsline {section}{\numberline {1}Resumen}{2}{section.1}%
-\contentsline {section}{\numberline {2}Inspiración}{3}{section.2}%
-\contentsline {section}{\numberline {3}Diseño del atuendo}{4}{section.3}%
-\contentsline {section}{\numberline {4}Fabricación de las partes}{6}{section.4}%
-\contentsline {subsection}{\numberline {4.1}Feature 1}{6}{subsection.4.1}%
-\contentsline {subsection}{\numberline {4.2}Feature 2}{6}{subsection.4.2}%
-\contentsline {subsection}{\numberline {4.3}Feature 3}{7}{subsection.4.3}%
-\contentsline {section}{\numberline {5}Resultado}{9}{section.5}%
+\contentsline {section}{\numberline {0.1}Resumen}{2}{section.0.1}%
+\contentsline {section}{\numberline {0.2}Inspiración}{3}{section.0.2}%
+\contentsline {section}{\numberline {0.3}Diseño del atuendo}{4}{section.0.3}%
+\contentsline {section}{\numberline {0.4}Fabricación de las partes}{6}{section.0.4}%
+\contentsline {subsection}{\numberline {0.4.1}Feature 1}{6}{subsection.0.4.1}%
+\contentsline {subsection}{\numberline {0.4.2}Feature 2}{6}{subsection.0.4.2}%
+\contentsline {subsection}{\numberline {0.4.3}Feature 3}{7}{subsection.0.4.3}%
+\contentsline {section}{\numberline {0.5}Resultado}{9}{section.0.5}%
 \contentsfinish 
