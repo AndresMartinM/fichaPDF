@@ -1,13 +1,13 @@
 # Fdb version 4
-["bibtex render/main"] 1779681214.86823 "render/main.aux" "render/main.bbl" "render/main" 1779682721.45581 0
+["bibtex render/main"] 1779681214.86823 "render/main.aux" "render/main.bbl" "render/main" 1779683187.08245 0
   "./CosplaySetsuna.bib" 1779665055 1558 e62d1d624ff0745083759f683aae08d9 ""
   "C:/Program Files/MiKTeX/bibtex/bst/bibtex/plain.bst" 1291864736 20613 bd3fbfa9f64872b81ac57a0dd2ed855f ""
-  "render/main.aux" 1779682715 1954 796f6a2b095447077a97d2e605b65626 "lualatex"
+  "render/main.aux" 1779683180 1954 796f6a2b095447077a97d2e605b65626 "lualatex"
   (generated)
   "render/main.bbl"
   "render/main.blg"
   (rewritten before read)
-["lualatex"] 1779682687.35105 "c:/Users/Andres/Documents/GitHub/fichaPDF/FichaDiseñoLaTeX/main.tex" "render/main.pdf" "main" 1779682721.4638 0
+["lualatex"] 1779683155.40048 "c:/Users/Andres/Documents/GitHub/fichaPDF/FichaDiseñoLaTeX/main.tex" "render/main.pdf" "main" 1779683187.08845 0
   "Assets/Fonts/JosefinSans-SemiBold.ttf" 1779630284 59892 37176043786379977e15e1b54350b0b9 ""
   "C:/Program Files/MiKTeX/fonts/tfm/public/cm/cmex10.tfm" 1136765053 992 662f679a0b3d2d53c1b94050fdaa3f50 ""
   "C:/Program Files/MiKTeX/fonts/tfm/public/cm/cmmi10.tfm" 1136765053 1528 abec98dbc43e172678c11b3b9031252a ""
@@ -212,14 +212,14 @@
   "C:/Users/Andres/AppData/Local/MiKTeX/luatex-cache/generic/fonts/otl/lmroman10-regular.luc" 1779620431 127316 b53e13bdad2cd325178d12d8af25291f ""
   "C:/Users/Andres/AppData/Local/MiKTeX/luatex-cache/generic/fonts/streams/josefinsanssemiboldttf-1.luc" 1779620643 68296 cb5c53b65bdb61b940367e625022e183 ""
   "C:/Users/Andres/AppData/Local/MiKTeX/luatex-cache/generic/names/luaotfload-names.luc.gz" 1779620430 32974 28395740ae76dba58ea7befdf9d8536f ""
-  "c:/Users/Andres/Documents/GitHub/fichaPDF/FichaDiseñoLaTeX/main.tex" 1779682683 3680 6dac38594c1adfe67d1af1f7215e7524 ""
+  "c:/Users/Andres/Documents/GitHub/fichaPDF/FichaDiseñoLaTeX/main.tex" 1779683151 3681 eb08a97325b95a7f08a2a083b8f0ecf0 ""
   "c:/program files/miktex/fonts/opentype/public/lm/lmmono10-regular.otf" 1256929440 64684 c6f5a48921f83c1a51d9384f785ddd5a ""
-  "main.tex" 1779682683 3680 6dac38594c1adfe67d1af1f7215e7524 ""
-  "render/main.aux" 1779682715 1954 796f6a2b095447077a97d2e605b65626 "lualatex"
+  "main.tex" 1779683151 3681 eb08a97325b95a7f08a2a083b8f0ecf0 ""
+  "render/main.aux" 1779683180 1954 796f6a2b095447077a97d2e605b65626 "lualatex"
   "render/main.bbl" 1779681216 199 1045dd9ae4a5068e26b9c0badd420bc3 "bibtex render/main"
-  "render/main.lof" 1779682715 355 8482d76fe91e4abd066f1981e0ed0baf "lualatex"
-  "render/main.out" 1779682715 904 6e685f7937c14bb90bb745062eb53299 "lualatex"
-  "render/main.toc" 1779682715 625 6f2ed7099f7e2c64c76117d836d2765e "lualatex"
+  "render/main.lof" 1779683180 355 8482d76fe91e4abd066f1981e0ed0baf "lualatex"
+  "render/main.out" 1779683180 904 6e685f7937c14bb90bb745062eb53299 "lualatex"
+  "render/main.toc" 1779683180 625 6f2ed7099f7e2c64c76117d836d2765e "lualatex"
   "sneakpeek.jpg" 1779630284 18875 b4a93d6b65c71167fb35fdbeb2d78401 ""
   (generated)
   "render/main.aux"
