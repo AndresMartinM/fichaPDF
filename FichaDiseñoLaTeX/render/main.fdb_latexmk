@@ -1,13 +1,13 @@
 # Fdb version 4
-["bibtex render/main"] 1779683561.33781 "render/main.aux" "render/main.bbl" "render/main" 1779683593.81653 0
+["bibtex render/main"] 1779684614.38367 "render/main.aux" "render/main.bbl" "render/main" 1779684650.10578 0
   "./CosplaySetsuna.bib" 1779665055 1558 e62d1d624ff0745083759f683aae08d9 ""
   "C:/Program Files/MiKTeX/bibtex/bst/bibtex/plain.bst" 1291864736 20613 bd3fbfa9f64872b81ac57a0dd2ed855f ""
-  "render/main.aux" 1779683588 1994 fa0c4f0f0036e9f3d291d76be0c23a5a "lualatex"
+  "render/main.aux" 1779684644 1954 796f6a2b095447077a97d2e605b65626 "lualatex"
   (generated)
   "render/main.bbl"
   "render/main.blg"
   (rewritten before read)
-["lualatex"] 1779683563.24045 "c:/Users/Andres/Documents/GitHub/fichaPDF/FichaDiseñoLaTeX/main.tex" "render/main.pdf" "main" 1779683593.82053 0
+["lualatex"] 1779684617.00627 "c:/Users/Andres/Documents/GitHub/fichaPDF/FichaDiseñoLaTeX/main.tex" "render/main.pdf" "main" 1779684650.1088 0
   "Assets/Fonts/JosefinSans-SemiBold.ttf" 1779630284 59892 37176043786379977e15e1b54350b0b9 ""
   "C:/Program Files/MiKTeX/fonts/tfm/public/cm/cmex10.tfm" 1136765053 992 662f679a0b3d2d53c1b94050fdaa3f50 ""
   "C:/Program Files/MiKTeX/fonts/tfm/public/cm/cmmi10.tfm" 1136765053 1528 abec98dbc43e172678c11b3b9031252a ""
@@ -103,10 +103,10 @@
   "C:/Program Files/MiKTeX/tex/latex/00miktex/epstopdf-sys.cfg" 1616067285 584 2a1075dd71571459f59146da9f7502ad ""
   "C:/Program Files/MiKTeX/tex/latex/arabi/bblopts.cfg" 1705750854 902 c30e5c373bc58bde21f8f63a3091626f ""
   "C:/Program Files/MiKTeX/tex/latex/babel-spanish/spanish.ldf" 1622279580 26965 3b6d1655ad716f98e788b1fb9f2e87b8 ""
+  "C:/Program Files/MiKTeX/tex/latex/base/article.cls" 1761900684 20144 b966087dda3b194755eb460d32e2ef75 ""
   "C:/Program Files/MiKTeX/tex/latex/base/fontenc.sty" 1761900684 5275 6f9d359641b36842524cdb97716ab75f ""
   "C:/Program Files/MiKTeX/tex/latex/base/ifthen.sty" 1761900684 5525 1593ca62a2554dd7423fc8a4e5a82125 ""
   "C:/Program Files/MiKTeX/tex/latex/base/ltluatex.lua" 1761900684 24595 fec17c41a4fb5260392d99b075389427 ""
-  "C:/Program Files/MiKTeX/tex/latex/base/report.cls" 1761900684 23203 f495085ac76be4e20c5e1e88646a241e ""
   "C:/Program Files/MiKTeX/tex/latex/base/size10.clo" 1761900684 8448 686612a86f0e04f41ea577f5ec7e83d8 ""
   "C:/Program Files/MiKTeX/tex/latex/cite/cite.sty" 1425353482 26218 19edeff8cdc2bcb704e8051dc55eb5a7 ""
   "C:/Program Files/MiKTeX/tex/latex/epstopdf-pkg/epstopdf-base.sty" 1623003186 13886 d1306dcf79a944f6988e688c1785f9ce ""
@@ -212,14 +212,14 @@
   "C:/Users/Andres/AppData/Local/MiKTeX/luatex-cache/generic/fonts/otl/lmroman10-regular.luc" 1779620431 127316 b53e13bdad2cd325178d12d8af25291f ""
   "C:/Users/Andres/AppData/Local/MiKTeX/luatex-cache/generic/fonts/streams/josefinsanssemiboldttf-1.luc" 1779620643 68296 cb5c53b65bdb61b940367e625022e183 ""
   "C:/Users/Andres/AppData/Local/MiKTeX/luatex-cache/generic/names/luaotfload-names.luc.gz" 1779620430 32974 28395740ae76dba58ea7befdf9d8536f ""
-  "c:/Users/Andres/Documents/GitHub/fichaPDF/FichaDiseñoLaTeX/main.tex" 1779683526 3680 6c990b844d34866d9d69341a325925fd ""
+  "c:/Users/Andres/Documents/GitHub/fichaPDF/FichaDiseñoLaTeX/main.tex" 1779684576 3565 eb8e4c898b7a90ecdf128344e3da9ca5 ""
   "c:/program files/miktex/fonts/opentype/public/lm/lmmono10-regular.otf" 1256929440 64684 c6f5a48921f83c1a51d9384f785ddd5a ""
-  "main.tex" 1779683526 3680 6c990b844d34866d9d69341a325925fd ""
-  "render/main.aux" 1779683588 1994 fa0c4f0f0036e9f3d291d76be0c23a5a "lualatex"
-  "render/main.bbl" 1779683562 199 1045dd9ae4a5068e26b9c0badd420bc3 "bibtex render/main"
-  "render/main.lof" 1779683588 363 6818acdc0038eabd44850e4bdfd72dcc "lualatex"
-  "render/main.out" 1779683588 926 2a43c82121ead7294aed524d59c81390 "lualatex"
-  "render/main.toc" 1779683588 657 11fe5063a31ce994f503e5aa3697b208 "lualatex"
+  "main.tex" 1779684576 3565 eb8e4c898b7a90ecdf128344e3da9ca5 ""
+  "render/main.aux" 1779684644 1954 796f6a2b095447077a97d2e605b65626 "lualatex"
+  "render/main.bbl" 1779684616 199 1045dd9ae4a5068e26b9c0badd420bc3 "bibtex render/main"
+  "render/main.lof" 1779684644 355 8482d76fe91e4abd066f1981e0ed0baf "lualatex"
+  "render/main.out" 1779684644 904 6e685f7937c14bb90bb745062eb53299 "lualatex"
+  "render/main.toc" 1779684644 625 6f2ed7099f7e2c64c76117d836d2765e "lualatex"
   "sneakpeek.jpg" 1779630284 18875 b4a93d6b65c71167fb35fdbeb2d78401 ""
   (generated)
   "render/main.aux"

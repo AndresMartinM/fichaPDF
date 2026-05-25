@@ -61,8 +61,8 @@ INPUT C:\Program Files\MiKTeX\tex\luatex\luaotfload\luaotfload-case.lua
 INPUT C:\Program Files\MiKTeX\tex\luatex\luaotfload\luaotfload-bcp47.lua
 INPUT C:\Program Files\MiKTeX\tex\latex\l3kernel\expl3.lua
 INPUT C:\Program Files\MiKTeX\tex\luatex\lua-uni-algos\lua-uni-stage-tables.lua
-INPUT C:\Program Files\MiKTeX\tex\latex\base\report.cls
-INPUT C:\Program Files\MiKTeX\tex\latex\base\report.cls
+INPUT C:\Program Files\MiKTeX\tex\latex\base\article.cls
+INPUT C:\Program Files\MiKTeX\tex\latex\base\article.cls
 INPUT C:\Program Files\MiKTeX\tex\latex\base\size10.clo
 INPUT C:\Program Files\MiKTeX\tex\latex\base\size10.clo
 INPUT C:\Users\Andres\AppData\Local\MiKTeX\luatex-cache\generic\names\luaotfload-names.luc.gz
